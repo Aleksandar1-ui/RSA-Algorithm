@@ -1,0 +1,10 @@
+C:\Users\tonil\source\repos\INKI708Proekt3AleksandarKarapanchevski\bin\Debug\INKI708Proekt3AleksandarKarapanchevski.exe.config
+C:\Users\tonil\source\repos\INKI708Proekt3AleksandarKarapanchevski\bin\Debug\INKI708Proekt3AleksandarKarapanchevski.exe
+C:\Users\tonil\source\repos\INKI708Proekt3AleksandarKarapanchevski\bin\Debug\INKI708Proekt3AleksandarKarapanchevski.pdb
+C:\Users\tonil\source\repos\INKI708Proekt3AleksandarKarapanchevski\obj\Debug\INKI708Proekt3AleksandarKarapanchevski.csproj.AssemblyReference.cache
+C:\Users\tonil\source\repos\INKI708Proekt3AleksandarKarapanchevski\obj\Debug\INKI708Proekt3AleksandarKarapanchevski.Form1.resources
+C:\Users\tonil\source\repos\INKI708Proekt3AleksandarKarapanchevski\obj\Debug\INKI708Proekt3AleksandarKarapanchevski.Properties.Resources.resources
+C:\Users\tonil\source\repos\INKI708Proekt3AleksandarKarapanchevski\obj\Debug\INKI708Proekt3AleksandarKarapanchevski.csproj.GenerateResource.cache
+C:\Users\tonil\source\repos\INKI708Proekt3AleksandarKarapanchevski\obj\Debug\INKI708Proekt3AleksandarKarapanchevski.csproj.CoreCompileInputs.cache
+C:\Users\tonil\source\repos\INKI708Proekt3AleksandarKarapanchevski\obj\Debug\INKI708Proekt3AleksandarKarapanchevski.exe
+C:\Users\tonil\source\repos\INKI708Proekt3AleksandarKarapanchevski\obj\Debug\INKI708Proekt3AleksandarKarapanchevski.pdb
